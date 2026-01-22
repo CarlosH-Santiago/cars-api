@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Ford Mustang Mach 1",
+    "preco": "R$ 576.490,00",
+    "tanque": "60 litros",
+    "potencia": "483 cv",
+    "aceleracao": "4,3 seg",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2021_Ford_Mustang_Mach_1_5.0_Front.jpg/800px-2021_Ford_Mustang_Mach_1_5.0_Front.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Porsche 911 Carrera S",
+    "preco": "R$ 1.050.000,00",
+    "tanque": "64 litros",
+    "potencia": "450 cv",
+    "aceleracao": "3,5 seg",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_911_Carrera_S_%28992%29_IMG_3748.jpg/800px-Porsche_911_Carrera_S_%28992%29_IMG_3748.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Honda Civic Type R",
+    "preco": "R$ 429.900,00",
+    "tanque": "47 litros",
+    "potencia": "297 cv",
+    "aceleracao": "5,4 seg",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Honda_Civic_Type_R_%28FL5%29_IMG_6881.jpg/800px-Honda_Civic_Type_R_%28FL5%29_IMG_6881.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Dodge Challenger Hellcat",
+    "preco": "R$ 890.000,00",
+    "tanque": "70 litros",
+    "potencia": "717 cv",
+    "aceleracao": "3,6 seg",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dodge_Challenger_SRT_Hellcat_Redeye_Widebody_IMG_4472.jpg/800px-Dodge_Challenger_SRT_Hellcat_Redeye_Widebody_IMG_4472.jpg"
+  }
+]
