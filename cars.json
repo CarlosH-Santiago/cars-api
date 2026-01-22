@@ -6,7 +6,7 @@
     "tanque": "60 litros",
     "potencia": "483 cv",
     "aceleracao": "4,3 seg",
-    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2021_Ford_Mustang_Mach_1_5.0_Front.jpg/800px-2021_Ford_Mustang_Mach_1_5.0_Front.jpg"
+    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Ford_Mustang_Mach_1_5.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "tanque": "64 litros",
     "potencia": "450 cv",
     "aceleracao": "3,5 seg",
-    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_911_Carrera_S_%28992%29_IMG_3748.jpg/800px-Porsche_911_Carrera_S_%28992%29_IMG_3748.jpg"
+    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Porsche_911_Carrera_S.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "tanque": "47 litros",
     "potencia": "297 cv",
     "aceleracao": "5,4 seg",
-    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Honda_Civic_Type_R_%28FL5%29_IMG_6881.jpg/800px-Honda_Civic_Type_R_%28FL5%29_IMG_6881.jpg"
+    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Honda_Civic_Type_R.png"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "tanque": "70 litros",
     "potencia": "717 cv",
     "aceleracao": "3,6 seg",
-    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dodge_Challenger_SRT_Hellcat_Redeye_Widebody_IMG_4472.jpg/800px-Dodge_Challenger_SRT_Hellcat_Redeye_Widebody_IMG_4472.jpg"
+    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Dodge_Challenger_SRT_Hellcat_Redeye.png"
   }
 ]
