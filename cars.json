@@ -6,7 +6,7 @@
     "tanque": "60 litros",
     "potencia": "483 cv",
     "aceleracao": "4,3 seg",
-    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Ford_Mustang_Mach_1_5.png"
+    "urlPhoto": "https://carlosh-santiago.github.io/cars-api/imgs/Ford_Mustang_Mach_1_5.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "tanque": "64 litros",
     "potencia": "450 cv",
     "aceleracao": "3,5 seg",
-    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Porsche_911_Carrera_S.png"
+    "urlPhoto": "https://carlosh-santiago.github.io/cars-api/imgs/Porsche_911_Carrera_S.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "tanque": "47 litros",
     "potencia": "297 cv",
     "aceleracao": "5,4 seg",
-    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Honda_Civic_Type_R.png"
+    "urlPhoto": "https://carlosh-santiago.github.io/cars-api/imgs/Honda_Civic_Type_R.png"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "tanque": "70 litros",
     "potencia": "717 cv",
     "aceleracao": "3,6 seg",
-    "urlPhoto": "https://github.com/CarlosH-Santiago/cars-api/blob/main/imgs/Dodge_Challenger_SRT_Hellcat_Redeye.png"
+    "urlPhoto": "https://carlosh-santiago.github.io/cars-api/imgs/Dodge_Challenger_SRT_Hellcat_Redeye.png"
   }
 ]
